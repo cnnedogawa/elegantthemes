@@ -6,7 +6,7 @@ Elegant Themes have been in operation for 8 years, and have served more than 500
 
 Some powerful themes from Elegant Themes
 
-1. <a title="Divi Elegant Flexible WordPress Theme" href="http://artsnet.org/divi-wordpress-theme" target="_blank" rel="noopener noreferrer">Divi WordPress Theme:</a> is Elegant’s flagship theme, and is truly multipurpose, with the ability to create just about any type of website. From blogs and business homepages to ecommerce stores and everything in between, Divi is undoubtedly a versatile website building tool.
+1. Divi WordPress Theme is Elegant’s flagship theme, and is truly multipurpose, with the ability to create just about any type of website. From blogs and business homepages to ecommerce stores and everything in between, Divi is undoubtedly a versatile website building tool.
 2. Extra WordPress theme was launched after Divi, and includes many of its best features. While Divi is a multipurpose theme, Extra has been designed for blogs, online magazines, and other content-rich websites.
 3. Nexus WordPress Theme Released only recently,Nexus WordPress Theme will give you many reasons to sign up for Elegant Themes. It comes with a handy drag and drop homepage builder and is packed full of options, content modules and custom widgets, thus giving you full control of your page and a pleasant page building experience. 
 4. Origin WordPress theme is an image-focused website template with anamazing power to draw attention. It will be an ideal choice for users who enjoy showcasing their work, product or writing using beautiful image grid and will transform any portfolio or blog website entirely.
