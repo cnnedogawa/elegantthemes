@@ -18,3 +18,4 @@ Some powerful themes from Elegant Themes
 10.  Flexible WordPress theme comes fully equipped with a ton of powerful features including a complete multimedia Ajax powered gallery. This theme keeps everything straight to the point so if you’re looking to show off all your artwork, photography or web design, this may be the right theme.
 
 There are more awesome themes beside above list. Check out full list of Elegant Themes in our website with detailed reviews for features and live demos to experience on them.
+Check out more details for Elegant Themes https://artsnet.org/elegant-themes/
