@@ -1,1 +1,20 @@
-This is index file
+Elegant Themes - best collection of WordPress Themes for your business online
+If you’re looking for a new WordPress theme, one name you’ll almost certainly come across is Elegant Themes. On paper, Elegant Themes certainly deserve a place on your shortlist when it comes to theme and plugin shopping. However, are their products suitable with your website? Should you sign-up with this WordPress provider or continue your search? Let me give you some ideas before you make the right decision.
+
+Elegant Themes OverView
+Elegant Themes have been in operation for 8 years, and have served more than 500,591 customers up to now. Elegant Themes currently offer 87 WordPress themes and 5 plugins. Accessing to all their themes and plugins will set you back $89 a year which means it costs less than $1 per item. If you’re planning on using their products for several years, though, it’s actually their slightly pricier ‘Lifetime Access’ plan that’s the best value option, giving you access to all existing and future products for a one-time fee of $249.
+
+Some powerful themes from Elegant Themes
+
+1. <a title="Divi Elegant Flexible WordPress Theme" href="http://artsnet.org/divi-wordpress-theme" target="_blank" rel="noopener noreferrer">Divi WordPress Theme:</a> is Elegant’s flagship theme, and is truly multipurpose, with the ability to create just about any type of website. From blogs and business homepages to ecommerce stores and everything in between, Divi is undoubtedly a versatile website building tool.
+2. Extra WordPress theme was launched after Divi, and includes many of its best features. While Divi is a multipurpose theme, Extra has been designed for blogs, online magazines, and other content-rich websites.
+3. Nexus WordPress Theme Released only recently,Nexus WordPress Theme will give you many reasons to sign up for Elegant Themes. It comes with a handy drag and drop homepage builder and is packed full of options, content modules and custom widgets, thus giving you full control of your page and a pleasant page building experience. 
+4. Origin WordPress theme is an image-focused website template with anamazing power to draw attention. It will be an ideal choice for users who enjoy showcasing their work, product or writing using beautiful image grid and will transform any portfolio or blog website entirely.
+5. Vertex WordPress theme Vertex WordPress Theme is a sensational theme built for providers that are looking to showcase their equally stunning products. The climb down from the Vertex is long, but as you descend you are met with animated content that is built for scrolling beautifully.
+6. Fable WordPress theme is a stunning blog theme geared towards multimedia bloggers that allows easy posting of anything. The theme uses a full-screen responsive design to present all featured articles on the homepage with maximum width and details, creating the most visually pleasing experience.
+7. Foxy WordPress theme is just like its name! It has a really sleek design with a bright orange color and awesome animated slidersthat just pulls your eyes in. This theme by ElegantThemes is a good-looking business and e-commerce WordPress template that is professional enough for all businesses.
+8. StyleShop WordPress theme was impressive at the first glance because of its cool appearance and prominent red buttons that instantly catch your eyes. This is just the beginning however because this eCommerce template still has other features to engage visitors. StyleShop has it all to suit fashion, clothing and retail online sales.
+9. Nimble WordPress Theme is among the best additions of the ElegantThemes collection. It is a unique looking gem with a big character and all the functionality you would expect from a premium template. The theme is also a user friendly one with intuitive navigation and great responsiveness.
+10.  Flexible WordPress theme comes fully equipped with a ton of powerful features including a complete multimedia Ajax powered gallery. This theme keeps everything straight to the point so if you’re looking to show off all your artwork, photography or web design, this may be the right theme.
+
+There are more awesome themes beside above list. Check out full list of Elegant Themes in our website with detailed reviews for features and live demos to experience on them.
